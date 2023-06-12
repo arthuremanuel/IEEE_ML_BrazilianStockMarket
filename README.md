@@ -12,14 +12,14 @@ The code is available in Python programming language, and each file is presented
 4. ./Data/^BVSP - 2020.csv: this file contains the dataset used in the paper, considering the Ibovespa index.
 
 <h2>Instructions</h2>
-How to run the code:
-First, install the Python programming language and all the dependencies needed for this project:
-1. MatPlotLib
-2. Numpy
-3. Scikit-Learn
-4. Backtrader
-5. Ta-Lib.
-
-Then, in the command line, type:
+How to run the code:<br>
+First, install the Python programming language and all the dependencies needed for this project:<br>
+1. MatPlotLib<br>
+2. Numpy<br>
+3. Scikit-Learn<br>
+4. Backtrader<br>
+5. Ta-Lib.<br>
+<br><br>
+Then, in the command line, type:<br>
 > python Main.py
 
