@@ -1,6 +1,9 @@
 # IEEE_ML_BrazilianStockMarket
 <h1>Resources for the manuscript "Using Machine Learning to Prevent Losses in the Brazilian Stock Market During the Covid-19 Pandemic" published in IEEE Latin America Transactions.
 </h1>
+
+<img src="05_PNG_Graphical Abstract.png"/>
+
 The code is available in Python programming language, and each file is presented in the following.
 
 1. Main.py: this is the main file of the project, in which we load the .csv data, run the proposed Machine Learning models and invoke the libraries in order to produce the results of the paper.
